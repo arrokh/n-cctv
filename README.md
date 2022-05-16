@@ -5,3 +5,4 @@ Project to improve UI/UX when accessing Kota Malang CCTV by wrapping their API w
 - User able to bookmark their favorite camera
 - User able to filtering in advance the list of cameras
 
+### Test some note
